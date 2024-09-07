@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A Passionate Full Stack developer</h3>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedroshdy404&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedroshdy404" /> </p>
