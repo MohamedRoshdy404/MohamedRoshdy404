@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [Programming](Programming)
 
-- 💬 Ask me about **C , C++ , C# , JS , REACT JS , MY SQL , NETWORK , OOP ,DATA STRUCTURE ,PROBLEM SOLVING**
+- 💬 Ask me about **C , C++ , C# , JS , REACT JS , MY SQL , NETWORKS , OOP ,DATA STRUCTURE ,PROBLEM SOLVING**
 
 - 📫 How to reach me **contact.mohamedroshdy@gmail.com**
 
