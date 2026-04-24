@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0N3BjNjcxdnc5bGUzZXpmMTIzYWkwY2xkM3VibjE1YnduaXc4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvYzBqZG8xNzVkeGdpeHZ5c3YzZmJkbzRoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
