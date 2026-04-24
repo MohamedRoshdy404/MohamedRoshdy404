@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvYzBqZG8xNzVkeGdpeHZ5c3YzZmJkbzRoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
 <h3 align="center">Full Stack .NET Developer | Backend Focused</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedroshdy404&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -20,14 +28,90 @@
 ### 🧠 Computer Science
 OOP • Data Structures • Problem Solving  
 
-### 🧩 Backend
+### 🧩 Backend Development
 ASP.NET Core • RESTful APIs • JWT • Roles & Policies  
 
-### 🗄️ Database
+### 🗄️ Databases
 SQL Server • T-SQL • Database Design  
 
 ### 🌐 Frontend
-React • JavaScript • HTML • CSS  
+React • JavaScript • HTML • CSS • Bootstrap • Tailwind  
+
+---
+
+## 🚀 Projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🏦 Bank Management System
+- Full Stack Banking System  
+- OOP + Clean Architecture  
+- Accounts, Customers, Transactions  
+- Secure & structured financial logic  
+- Focus on data integrity  
+
+</td>
+
+<td width="50%">
+
+### 📄 Licenses & Permits System
+- Administrative system for managing permits  
+- Role-Based Access (Admin / User)  
+- CRUD Operations  
+- SQL Server integration  
+- Workflow management system  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+<a href="https://twitter.com/mohamed51936223"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
+<a href="https://linkedin.com/in/mohamed-roshdy-887856230/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://stackoverflow.com/users/19086311/mohamed-roshdy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/></a>
+<a href="https://facebook.com/profile.php?id=100008482352735"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
+<a href="https://instagram.com/mroshdi28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"/>
+
+</p>
 
 ---
 
@@ -40,6 +124,12 @@ React • JavaScript • HTML • CSS
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedroshdy404&theme=tokyonight" width="420"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedroshdy404&layout=compact&theme=tokyonight" width="500"/>
 </td>
 </tr>
 </table>
