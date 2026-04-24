@@ -25,17 +25,39 @@
 
 ## ⚙️ Core Skills
 
-### 🧠 Computer Science
-OOP • Data Structures • Problem Solving  
+## 🧠 Core Computer Science
+- Data Structures (DS)
+- Object Oriented Programming (OOP)
+- SOLID Principles
 
-### 🧩 Backend Development
-ASP.NET Core • RESTful APIs • JWT • Roles & Policies  
+---
 
-### 🗄️ Databases
-SQL Server • T-SQL • Database Design  
+## 💻 Backend Development (.NET)
+- ASP.NET Core
+- RESTful APIs
+- ADO.NET
+- 3-Tier Architecture
+- Secure APIs (JWT Authentication)
+- Role-Based Authorization (Roles & Policies)
 
-### 🌐 Frontend
-React • JavaScript • HTML • CSS • Bootstrap • Tailwind  
+---
+
+## 🗄️ Databases
+- SQL Server
+- T-SQL
+- Database Design
+
+---
+
+## 💻 Programming Languages
+- C++
+- C#
+
+---
+
+## 🧩 Problem Solving
+- Completed 5 Problem Solving Courses
+- Strong logical thinking & algorithms foundation
 
 ---
 
