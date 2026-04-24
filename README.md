@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZ5bG5nM2pobDhhbzl6MmVwNG92NXA0Mzh0anJ3c2NkcTJleGZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0flMBPtMGU0wbm/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0N3BjNjcxdnc5bGUzZXpmMTIzYWkwY2xkM3VibjE1YnduaXc4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
 <h3 align="center">A Passionate Full Stack developer</h3>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
