@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 <p align="center">
-Full Stack .NET Developer 🚀  
+🚀 Full Stack .NET Developer  
 Backend-focused engineer with strong system design mindset  
 Building secure and scalable applications
 </p>
@@ -34,7 +34,7 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🧠 🧩 Core Computer Science
+## 🧠 Core Computer Science
 - Data Structures (DS)  
 - Object Oriented Programming (OOP)  
 - SOLID Principles  
@@ -43,7 +43,7 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 💻 ⚙️ Backend Development (.NET)
+## 💻 Backend Development (.NET)
 - ASP.NET Core  
 - RESTful APIs  
 - Entity Framework Core (EF Core)  
@@ -56,29 +56,29 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🌐 🎨 Frontend Development
+## 🌐 Frontend Development
 - HTML (Strong Foundation)  
 - CSS (Responsive Design & Styling)  
-- JavaScript (DOM Manipulation & Core Concepts)  
+- JavaScript (DOM & Core Concepts)  
 
 ---
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🌍 🌐 Web Fundamentals
-- How the Web works (Client / Server Model)  
-- HTTP Protocol (Requests & Responses)  
-- REST Architecture Principles  
-- CORS Concept (Browser Security Layer)  
+## 🌍 Web Fundamentals
+- Client / Server Model  
+- HTTP Protocol  
+- REST API Principles  
+- CORS Concept  
 - Authentication vs Authorization  
-- Cookies, Sessions & Tokens Basics  
+- Cookies, Sessions & Tokens  
 - API Communication Flow  
 
 ---
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🗄️ 💾 Databases
+## 🗄️ Databases
 - SQL Server  
 - T-SQL  
 - Database Design  
@@ -87,7 +87,7 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 💻 🔧 Programming Languages
+## 💻 Programming Languages
 - C++  
 - C#  
 
@@ -95,9 +95,10 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🧩 🧠 Problem Solving
-- Completed 5 Problem Solving Courses  
-- Strong logical thinking & algorithms foundation  
+## 🧩 Problem Solving
+- 5 Problem Solving Courses  
+- Strong logical thinking  
+- Algorithms foundation  
 
 ---
 
@@ -111,7 +112,7 @@ Building secure and scalable applications
 
 ### 🏦 Bank Management System
 - Built using **C# & ADO.NET**  
-- Based on **3-Tier Architecture**  
+- 3-Tier Architecture  
 - Customers & Accounts Management  
 - Deposit & Withdraw Transactions  
 - Data validation & integrity rules  
@@ -123,7 +124,7 @@ Building secure and scalable applications
 
 ### 📄 Licenses & Permits System
 - Built using **C# & ADO.NET**  
-- 3-Tier Architecture applied  
+- 3-Tier Architecture  
 - Role-based system (Admin / User)  
 - Full CRUD operations  
 - Database-driven workflow system  
@@ -136,7 +137,7 @@ Building secure and scalable applications
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🌐 📬 Connect with me
+## 🌐 Connect with me
 
 <p align="center">
 <a href="https://twitter.com/mohamed51936223"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
@@ -148,7 +149,7 @@ Building secure and scalable applications
 
 ---
 
-## 🛠️ ⚡ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center">
 
@@ -182,7 +183,7 @@ Building secure and scalable applications
 
 ---
 
-## 📊 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <table align="center">
 <tr>
