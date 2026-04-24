@@ -1,202 +1,94 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvZzgxZ2V2Z3B5d2JxZ3J0b2t3eG9tZzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
-</p>
+export default function Portfolio() {
+  return (
+    <div className="bg-[#0f172a] text-white min-h-screen">
 
-<h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
+      {/* HERO */}
+      <section className="text-center py-20">
+        <img
+          src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+          className="mx-auto w-[500px]"
+        />
 
-<h3 align="center">Full Stack .NET Developer | Backend Focused</h3>
+        <h1 className="text-4xl font-bold mt-6">
+          Hi 👋, I'm Mohamed Roshdy
+        </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-Core-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-Server-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean-Architecture-success?style=for-the-badge"/>
-</p>
+        <p className="text-gray-400 mt-3">
+          Full Stack .NET Developer | Backend Focused Engineer
+        </p>
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="750"/>
-</p>
+        <div className="mt-5 space-x-3">
+          <a href="https://github.com" className="bg-blue-600 px-4 py-2 rounded">
+            GitHub
+          </a>
+          <a href="https://linkedin.com" className="bg-blue-500 px-4 py-2 rounded">
+            LinkedIn
+          </a>
+        </div>
+      </section>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedroshdy404&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+      {/* ABOUT */}
+      <section className="px-10 py-10 text-center">
+        <h2 className="text-2xl font-bold">🧠 About Me</h2>
+        <p className="text-gray-400 mt-3">
+          Full Stack .NET Developer focused on backend, system design,
+          clean architecture and scalable applications.
+        </p>
+      </section>
 
----
+      {/* SKILLS */}
+      <section className="px-10 py-10 text-center">
+        <h2 className="text-2xl font-bold">⚙️ Skills</h2>
 
-## 🧠 About Me
-<p align="center">
-Full Stack .NET Developer 🚀  
-Backend-focused engineer with strong system design mindset  
-Building secure and scalable applications
-</p>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-5">
+          {[
+            ".NET",
+            "C#",
+            "SQL Server",
+            "ASP.NET Core",
+            "JS",
+            "OOP",
+            "DS",
+            "EF Core"
+          ].map((skill) => (
+            <div key={skill} className="bg-gray-800 p-3 rounded">
+              {skill}
+            </div>
+          ))}
+        </div>
+      </section>
 
----
+      {/* PROJECTS */}
+      <section className="px-10 py-10 text-center">
+        <h2 className="text-2xl font-bold">🚀 Projects</h2>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+        <div className="grid md:grid-cols-2 gap-6 mt-5">
 
-## 🧠 🧩 Core Computer Science
-- Data Structures (DS)  
-- Object Oriented Programming (OOP)  
-- SOLID Principles  
+          <div className="bg-gray-800 p-5 rounded">
+            <h3 className="font-bold">🏦 Bank System</h3>
+            <p className="text-gray-400 text-sm mt-2">
+              A system built with ADO.NET + 3-Tier Architecture
+            </p>
+          </div>
 
----
+          <div className="bg-gray-800 p-5 rounded">
+            <h3 className="font-bold">📄 Licenses System</h3>
+            <p className="text-gray-400 text-sm mt-2">
+              Role-based system with full CRUD operations
+            </p>
+          </div>
 
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+        </div>
+      </section>
 
-## 💻 ⚙️ Backend Development (.NET)
-- ASP.NET Core  
-- RESTful APIs  
-- Entity Framework Core (EF Core)  
-- ADO.NET  
-- 3-Tier Architecture  
-- Secure APIs (JWT Authentication)  
-- Role-Based Authorization (Roles & Policies)  
+      {/* CONTACT */}
+      <section className="text-center py-10">
+        <h2 className="text-2xl font-bold">📬 Contact</h2>
+        <p className="text-gray-400 mt-2">
+          contact.mohamedroshdy@gmail.com
+        </p>
+      </section>
 
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌐 🎨 Frontend Development
-- HTML (Strong Foundation)  
-- CSS (Responsive Design & Styling)  
-- JavaScript (DOM Manipulation & Core Concepts)  
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌍 🌐 Web Fundamentals
-- How the Web works (Client / Server Model)  
-- HTTP Protocol (Requests & Responses)  
-- REST Architecture Principles  
-- CORS Concept (Browser Security Layer)  
-- Authentication vs Authorization  
-- Cookies, Sessions & Tokens Basics  
-- API Communication Flow  
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🗄️ 💾 Databases
-- SQL Server  
-- T-SQL  
-- Database Design  
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 💻 🔧 Programming Languages
-- C++  
-- C#  
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🧩 🧠 Problem Solving
-- Completed 5 Problem Solving Courses  
-- Strong logical thinking & algorithms foundation  
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🏦 Bank Management System
-- Built using **C# & ADO.NET**  
-- Based on **3-Tier Architecture**  
-- Customers & Accounts Management  
-- Deposit & Withdraw Transactions  
-- Data validation & integrity rules  
-- Clean separation between layers  
-
-</td>
-
-<td width="50%">
-
-### 📄 Licenses & Permits System
-- Built using **C# & ADO.NET**  
-- 3-Tier Architecture applied  
-- Role-based system (Admin / User)  
-- Full CRUD operations  
-- Database-driven workflow system  
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🌐 📬 Connect with me
-
-<p align="center">
-<a href="https://twitter.com/mohamed51936223"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
-<a href="https://linkedin.com/in/mohamed-roshdy-887856230/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-<a href="https://stackoverflow.com/users/19086311/mohamed-roshdy"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/></a>
-<a href="https://facebook.com/profile.php?id=100008482352735"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/></a>
-<a href="https://instagram.com/mroshdi28"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
-</p>
-
----
-
-## 🛠️ ⚡ Languages & Tools
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="50"/>
-
-</p>
-
----
-
-## 📊 📈 GitHub Stats
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedroshdy404&show_icons=true&theme=tokyonight" width="420"/>
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedroshdy404&theme=tokyonight" width="420"/>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedroshdy404&layout=compact&theme=tokyonight" width="500"/>
-</td>
-</tr>
-</table>
+    </div>
+  );
+}
