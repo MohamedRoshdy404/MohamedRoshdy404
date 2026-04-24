@@ -35,6 +35,7 @@
 ## 💻 Backend Development (.NET)
 - ASP.NET Core
 - RESTful APIs
+- Entity Framework Core (EF Core)
 - ADO.NET
 - 3-Tier Architecture
 - Secure APIs (JWT Authentication)
