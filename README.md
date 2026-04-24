@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvYzBqZG8xNzVkeGdpeHZ5c3YzZmJkbzRoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvZzgxZ2V2Z3B5d2JxZ3J0b2t3eG9tZzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
 <h3 align="center">Full Stack .NET Developer | Backend Focused</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="700"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="750"/>
 </p>
 
 <p align="center">
@@ -17,48 +17,65 @@
 
 ## 🧠 About Me
 - Full Stack Developer specialized in .NET ecosystem  
-- Strong foundation in OOP & Data Structures  
+- Strong foundation in OOP, DS, and SOLID Principles  
 - Building secure RESTful APIs using ASP.NET Core  
-- Passionate about clean architecture & backend systems  
+- Passionate about clean architecture and backend systems  
+- Understanding of Web Fundamentals and system design  
 
 ---
 
-## ⚙️ Core Skills
-
 ## 🧠 Core Computer Science
-- Data Structures (DS)
-- Object Oriented Programming (OOP)
-- SOLID Principles
+- Data Structures (DS)  
+- Object Oriented Programming (OOP)  
+- SOLID Principles  
 
 ---
 
 ## 💻 Backend Development (.NET)
-- ASP.NET Core
-- RESTful APIs
-- Entity Framework Core (EF Core)
-- ADO.NET
-- 3-Tier Architecture
-- Secure APIs (JWT Authentication)
-- Role-Based Authorization (Roles & Policies)
+- ASP.NET Core  
+- RESTful APIs  
+- Entity Framework Core (EF Core)  
+- ADO.NET  
+- 3-Tier Architecture  
+- Secure APIs (JWT Authentication)  
+- Role-Based Authorization (Roles & Policies)  
+
+---
+
+## 🌐 Frontend Development
+- HTML (Strong Foundation)  
+- CSS (Responsive Design & Styling)  
+- JavaScript (DOM Manipulation & Core Concepts)  
+
+---
+
+## 🌐 Web Fundamentals
+- How the Web works (Client / Server Model)  
+- HTTP Protocol (Requests & Responses)  
+- REST Architecture Principles  
+- CORS Concept (Browser Security Layer)  
+- Authentication vs Authorization  
+- Cookies, Sessions & Tokens Basics  
+- API Communication Flow  
 
 ---
 
 ## 🗄️ Databases
-- SQL Server
-- T-SQL
-- Database Design
+- SQL Server  
+- T-SQL  
+- Database Design  
 
 ---
 
 ## 💻 Programming Languages
-- C++
-- C#
+- C++  
+- C#  
 
 ---
 
 ## 🧩 Problem Solving
-- Completed 5 Problem Solving Courses
-- Strong logical thinking & algorithms foundation
+- Completed 5 Problem Solving Courses  
+- Strong logical thinking & algorithms foundation  
 
 ---
 
@@ -69,22 +86,22 @@
 <td width="50%">
 
 ### 🏦 Bank Management System
-- Desktop Application built using **C# & ADO.NET**
-- Implements **3-Tier Architecture (Presentation / Business / Data Layer)**
-- Manages Customers, Accounts, Deposits & Withdrawals
-- Strong focus on **data consistency & validation**
-- Clean separation of responsibilities between layers
+- Built using **C# & ADO.NET**
+- Based on **3-Tier Architecture**
+- Manages Customers, Accounts, Transactions
+- Focus on data integrity and validation
+- Clean separation between layers
 
 </td>
 
 <td width="50%">
 
-### 📄 Licenses & Permits Management System
-- Desktop System built using **C# & ADO.NET**
-- Based on **3-Tier Architecture**
-- Handles Licenses, Permits, and Administrative workflows
+### 📄 Licenses & Permits System
+- Built using **C# & ADO.NET**
+- 3-Tier Architecture applied
 - Role-based system (Admin / User)
-- Full CRUD operations with structured database logic
+- Full CRUD operations
+- Database-driven workflow system
 
 </td>
 </tr>
