@@ -1,9 +1,17 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvZzgxZ2V2Z3B5d2JxZ3J0b2t3eG9tZzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZieGp1YWw4Y3pvZjRvZzgxZ2V2Z3B5d2JxZ3J0b2t3eG9tZzZ5cSZlcD12MV9pbnRlcm5hbF9naWZfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
+
 <h3 align="center">Full Stack .NET Developer | Backend Focused</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-Core-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-Server-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-success?style=for-the-badge"/>
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="750"/>
@@ -16,22 +24,26 @@
 ---
 
 ## 🧠 About Me
-- Full Stack Developer specialized in .NET ecosystem  
-- Strong foundation in OOP, DS, and SOLID Principles  
-- Building secure RESTful APIs using ASP.NET Core  
-- Passionate about clean architecture and backend systems  
-- Understanding of Web Fundamentals and system design  
+<p align="center">
+Full Stack .NET Developer 🚀  
+Backend-focused engineer with strong system design mindset  
+Building secure and scalable applications
+</p>
 
 ---
 
-## 🧠 Core Computer Science
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🧠 🧩 Core Computer Science
 - Data Structures (DS)  
 - Object Oriented Programming (OOP)  
 - SOLID Principles  
 
 ---
 
-## 💻 Backend Development (.NET)
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 💻 ⚙️ Backend Development (.NET)
 - ASP.NET Core  
 - RESTful APIs  
 - Entity Framework Core (EF Core)  
@@ -42,14 +54,18 @@
 
 ---
 
-## 🌐 Frontend Development
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🌐 🎨 Frontend Development
 - HTML (Strong Foundation)  
 - CSS (Responsive Design & Styling)  
 - JavaScript (DOM Manipulation & Core Concepts)  
 
 ---
 
-## 🌐 Web Fundamentals
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🌍 🌐 Web Fundamentals
 - How the Web works (Client / Server Model)  
 - HTTP Protocol (Requests & Responses)  
 - REST Architecture Principles  
@@ -60,48 +76,57 @@
 
 ---
 
-## 🗄️ Databases
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🗄️ 💾 Databases
 - SQL Server  
 - T-SQL  
 - Database Design  
 
 ---
 
-## 💻 Programming Languages
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 💻 🔧 Programming Languages
 - C++  
 - C#  
 
 ---
 
-## 🧩 Problem Solving
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🧩 🧠 Problem Solving
 - Completed 5 Problem Solving Courses  
 - Strong logical thinking & algorithms foundation  
 
 ---
 
-## 🚀 Projects
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
 <td width="50%">
 
 ### 🏦 Bank Management System
-- Built using **C# & ADO.NET**
-- Based on **3-Tier Architecture**
-- Manages Customers, Accounts, Transactions
-- Focus on data integrity and validation
-- Clean separation between layers
+- Built using **C# & ADO.NET**  
+- Based on **3-Tier Architecture**  
+- Customers & Accounts Management  
+- Deposit & Withdraw Transactions  
+- Data validation & integrity rules  
+- Clean separation between layers  
 
 </td>
 
 <td width="50%">
 
 ### 📄 Licenses & Permits System
-- Built using **C# & ADO.NET**
-- 3-Tier Architecture applied
-- Role-based system (Admin / User)
-- Full CRUD operations
-- Database-driven workflow system
+- Built using **C# & ADO.NET**  
+- 3-Tier Architecture applied  
+- Role-based system (Admin / User)  
+- Full CRUD operations  
+- Database-driven workflow system  
 
 </td>
 </tr>
@@ -109,7 +134,9 @@
 
 ---
 
-## 🌐 Connect with me
+<p align="center">━━━━━━━━━━━━━━━━━━━━</p>
+
+## 🌐 📬 Connect with me
 
 <p align="center">
 <a href="https://twitter.com/mohamed51936223"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/></a>
@@ -121,7 +148,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ ⚡ Languages & Tools
 
 <p align="center">
 
@@ -155,7 +182,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 📈 GitHub Stats
 
 <table align="center">
 <tr>
