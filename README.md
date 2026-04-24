@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0N3BjNjcxdnc5bGUzZXpmMTIzYWkwY2xkM3VibjE1YnduaXc4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx0N3BjNjcxdnc5bGUzZXpmMTIzYWkwY2xkM3VibjE1YnduaXc4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Roshdy</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -16,12 +16,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mohamedroshdy404&theme=algolia"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/mohamed51936223">
-    <img src="https://img.shields.io/twitter/follow/mohamed51936223?logo=twitter&style=for-the-badge" />
   </a>
 </p>
 
@@ -63,13 +57,10 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedroshdy404&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedroshdy404&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedroshdy404&theme=tokyonight" width="400"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedroshdy404&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedroshdy404&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedroshdy404&layout=compact&theme=tokyonight" width="400"/>
 </p>
