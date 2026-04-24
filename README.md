@@ -46,22 +46,22 @@ React • JavaScript • HTML • CSS • Bootstrap • Tailwind
 <td width="50%">
 
 ### 🏦 Bank Management System
-- Full Stack Banking System  
-- OOP + Clean Architecture  
-- Accounts, Customers, Transactions  
-- Secure & structured financial logic  
-- Focus on data integrity  
+- Desktop Application built using **C# & ADO.NET**
+- Implements **3-Tier Architecture (Presentation / Business / Data Layer)**
+- Manages Customers, Accounts, Deposits & Withdrawals
+- Strong focus on **data consistency & validation**
+- Clean separation of responsibilities between layers
 
 </td>
 
 <td width="50%">
 
-### 📄 Licenses & Permits System
-- Administrative system for managing permits  
-- Role-Based Access (Admin / User)  
-- CRUD Operations  
-- SQL Server integration  
-- Workflow management system  
+### 📄 Licenses & Permits Management System
+- Desktop System built using **C# & ADO.NET**
+- Based on **3-Tier Architecture**
+- Handles Licenses, Permits, and Administrative workflows
+- Role-based system (Admin / User)
+- Full CRUD operations with structured database logic
 
 </td>
 </tr>
